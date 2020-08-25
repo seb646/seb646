@@ -2,9 +2,7 @@
   
  ### Hi there! I'm Sebastian, a software engineer from New York 👋
 
-|Website|Email|
-|:--- |:--- |
-|`srod.ca`|`me@srod.ca`|
+`srod.ca` &nbsp; `me@srod.ca`
 
 </div>
 
