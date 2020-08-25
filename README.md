@@ -1,4 +1,4 @@
-### 👋 Hi there! I'm Sebastian, a software engineer from New York
+### 👋 Hi there! I'm Sebastian, a software engineer from New York.
 
 ```php
 $about = array(
@@ -6,8 +6,8 @@ $about = array(
     "website" => "srod.ca",
     "email" => "me@srod.ca",
     "location" => array(
-        "current" => "Toronto, CA",
-        "from" => "New York, NY"
+        "Toronto, CA",
+        "New York, NY"
     ),
     "experience" => array(
         "ICCIT Council" => array(
