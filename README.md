@@ -6,7 +6,7 @@ $about = array(
     "website" => "srod.ca",
     "email" => "me@srod.ca",
     "location" => array(
-        "Toronto, CA",
+        "Toronto, ON",
         "New York, NY"
     ),
     "experience" => array(
