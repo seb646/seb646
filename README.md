@@ -1,6 +1,12 @@
-### Hi there! I'm Sebastian, a software engineer from New York 👋
+<div align="center">
+  
+ ### Hi there! I'm Sebastian, a software engineer from New York 👋
 
-`srod.ca`  `me@srod.ca`
+|Website|Email|
+|:--- |:--- |
+|`srod.ca`|`me@srod.ca`|
+
+</div>
 
 ---
 
