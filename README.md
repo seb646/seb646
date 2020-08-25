@@ -1,8 +1,38 @@
 ### 👋 Hi there! I'm Sebastian, a software engineer from New York
 
-`srod.ca` &nbsp; `me@srod.ca`
-
----
+```php
+$about = array(
+    "name" => "Sebastian Rodriguez",
+    "website" => "srod.ca",
+    "email" => "me@srod.ca",
+    "location" => array(
+        "current" => "Toronto, CA",
+        "from" => "New York, NY"
+    ),
+    "experience" => array(
+        "ICCIT Council" => array(
+            "Director, Web Development (2020)",
+            "Associate Director, Web Development (2019)"
+        ),
+        "Churchill Capital" => array(
+            "Data Analyst (2018)"
+        ),
+        "Icarus Labs" => array(
+            "Software Engineer (2018-Present)"
+        ),
+        "The Browning School" => array(
+            "Teaching Assistant, Computer Science (2019)",
+            "Teaching Assistant, Robotics (2017-18)"
+        ),
+        "The Tardigrade Group" => array(
+            "Chief Operating Officer (2017-18)"
+        )
+    ),
+    "education" => array(
+        "undergrad" => "University of Toronto"
+    )
+);
+```
 
 #### Languages 
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
