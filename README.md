@@ -1,10 +1,6 @@
-<div align="center">
-  
- ### Hi there! I'm Sebastian, a software engineer from New York 👋
+### 👋 Hi there! I'm Sebastian, a software engineer from New York
 
 `srod.ca` &nbsp; `me@srod.ca`
-
-</div>
 
 ---
 
