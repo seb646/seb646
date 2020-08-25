@@ -1,5 +1,6 @@
-### Hi! I'm Sebastian, a software engineer from New York 👋
-[![Linkedin Badge](https://img.shields.io/badge/-seb646-blue?style=flat&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/seb646/)](https://linkedin.com/in/seb646/)
+### Hi there! I'm Sebastian, a software engineer from New York 👋
+
+`srod.ca`  `me@srod.ca`
 
 ---
 
@@ -28,7 +29,7 @@
 #### Tools
 ![Digital Ocean](https://img.shields.io/badge/Digital%20Ocean-0080FF?style=flat&logo=digitalocean&logoColor=white)
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-0753a4?style=flat&logo=adobe%20photoshop&logoColor=white)
 
