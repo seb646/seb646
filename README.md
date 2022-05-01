@@ -10,6 +10,9 @@ $about = array(
         "New York, NY"
     ),
     "experience" => array(
+        "University of Toronto" => array(
+            "Research Fellow (2022)"
+        ),
         "ICCIT Council" => array(
             "Director, Web Development (2020)",
             "Associate Director, Web Development (2019)"
@@ -36,7 +39,6 @@ $about = array(
 
 #### Languages 
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
-![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat&logo=ruby)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
